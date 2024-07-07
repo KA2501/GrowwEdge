@@ -3,6 +3,9 @@
 ## Overview
 Groww Edge is an Android application that provides users with comprehensive access to stock market information using the Alpha Vantage API. The app allows users to view a list of listed stocks, along with detailed company information and intraday information for each stock.
 
+![photo_2024-07-07_16-29-23](https://github.com/KA2501/GrowwEdge/assets/104622097/4ce506dd-2797-40da-bbf1-c077628c2f2f)
+
+
 ## Features 🌟
 
 ### Listed Stocks
@@ -61,7 +64,7 @@ When a stock is clicked, the Product Screen displays:
 To install Groww Edge, follow these steps:
 1. Clone the repository.
     ```bash
-    git clone https://github.com/your-repository-url
+    git clone https://github.com/KA2501/GrowwEdge
     ```
 2. Open the project in Android Studio.
 3. Build and run the project on an Android device or emulator.
