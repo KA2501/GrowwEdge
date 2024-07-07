@@ -4,15 +4,12 @@
 Groww Edge is an Android application that provides users with comprehensive access to stock market information using the Alpha Vantage API. The app allows users to view a list of listed stocks, along with detailed company information and intraday information for each stock.
 
 
-<p align="center">
-  <img src="https://github.com/KA2501/GrowwEdge/assets/104622097/4ce506dd-2797-40da-bbf1-c077628c2f2f" alt="Image 1" width="200"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/KA2501/GrowwEdge/assets/104622097/0e01f80a-fbd1-4cdc-a1a7-87ac568722ea" alt="Image 2" width="200"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/KA2501/GrowwEdge/assets/104622097/934b5ba1-8503-4c07-9de6-3a2791d65a7f" alt="Image 3" width="200"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/KA2501/GrowwEdge/assets/104622097/4ce506dd-2797-40da-bbf1-c077628c2f2f" alt="Image 1" width="200" style="margin-right: 1rem;"/>
+  <img src="https://github.com/KA2501/GrowwEdge/assets/104622097/0e01f80a-fbd1-4cdc-a1a7-87ac568722ea" alt="Image 2" width="200" style="margin-right: 1rem;"/>
+  <img src="https://github.com/KA2501/GrowwEdge/assets/104622097/934b5ba1-8503-4c07-9de6-3a2791d65a7f" alt="Image 3" width="200" style="margin-right: 1rem;"/>
   <img src="https://github.com/KA2501/GrowwEdge/assets/104622097/c3dd2fe2-9889-4c16-bc76-026efc97e4f8" alt="Image 4" width="200"/>
-</p>
+</div>
 
 
 ## Features 🌟
